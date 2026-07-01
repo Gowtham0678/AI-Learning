@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to RAG",
+    "content": "RAG combines retrieval with generation for better AI answers",
+    "tags": [
+      "ai",
+      "rag",
+      "llm"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "AWS Bedrock Basics",
+    "content": "Bedrock provides managed access to foundation models",
+    "tags": [
+      "aws",
+      "cloud",
+      "llm"
+    ]
+  }
+]

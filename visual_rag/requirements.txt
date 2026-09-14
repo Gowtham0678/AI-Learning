@@ -1,0 +1,8 @@
+pymupdf
+langchain-text-splitters
+sentence-transformers
+scikit-learn
+numpy
+pillow
+torch
+transformers

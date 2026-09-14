@@ -1,0 +1,29 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated Visual RAG pages
+visual_rag/rendered_pages/
+
+# Visual RAG input PDFs
+visual_rag/data/*.pdf
+
+# Model/cache files
+.cache/
+huggingface/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Chat history
+chat_history.json
